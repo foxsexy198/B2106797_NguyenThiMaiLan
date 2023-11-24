@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+        background-color: rgb(246, 246, 246);
+    }
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover, button:hover {
+    cursor: pointer;
+}
+
+
+li {
+    list-style-type: none;
+}
+
+:root {
+    --main-color: #00B108;
+    --green-color1: #0A3A1B;
+    --yellow-color: #FFF61F;
+}
